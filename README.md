@@ -14,6 +14,8 @@ Potential improvements:
 - Keeping count of how many different posts the user has liked (different from how many times a post has been liked). Keep count and display it in some way. Could even go as far as to store this number in localStorage so that when the page is reloaded, the initial state can be set from the number stored.
 - Adding an animation for when a new message is submitted and appears in the list below
 
+API: I added three endpoints for returning all the thoughts, posting a new thought and updating the number of likes for a post. I also tried out pagination, which means that the user can put in queries on page number and limit of the number of thoughts per page, and get only the thoughts on that page returned to them.
+
 ### View it live
 
 Backend: https://hang-happy-thoughts-api.onrender.com/thoughts
