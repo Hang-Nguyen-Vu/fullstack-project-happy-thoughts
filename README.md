@@ -20,4 +20,4 @@ API: I added three endpoints for returning all the thoughts, posting a new thoug
 
 Backend: https://hang-happy-thoughts-api.onrender.com/thoughts
 
-Frontend: hang-nguyen-happy-thoughts-project.netlify.app 
+Frontend: https://happy-thoughts-posting.netlify.app/
