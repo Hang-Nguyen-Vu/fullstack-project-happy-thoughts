@@ -1,12 +1,6 @@
-<h1 align="center">
-  <a href="">
-    <img src="/src/assets/happy-thoughts.svg" alt="Project Banner Image">
-  </a>
-</h1>
-
 # About the project
 
-I built a Twitter-like app where the users can post their, preferably happy, thoughts/messages, using React, as well as building my own API to fetch data from and post data to.
+I built a Twitter-like app where the users can post their, preferably happy, thoughts/messages, using React, as well as building my own API to fetch data from and post data to using MongoDB.
 
 ### The Problem
 Structure:
